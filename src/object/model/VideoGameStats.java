@@ -5,7 +5,6 @@ public class VideoGameStats
 	private String name;
 	private int hoursplayed;
 	private int minutesplayed;
-
 	
 	public int getHoursplayed() {
 		return hoursplayed;
